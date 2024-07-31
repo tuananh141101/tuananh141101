@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I love code!
-
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [tuananh1411201@gmail.com](mailto:tuananh1411201@gmail.com)
 * 🧠  I'm learning ReactJs,NodeJs
