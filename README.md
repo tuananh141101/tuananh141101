@@ -6,8 +6,7 @@ Front-End Developer
 
 * 🌍  I'm based in Viet Nam
 * ✉️  You can contact me at [tuananh1411201@gmail.com](mailto:tuananh1411201@gmail.com)
-* 🧠  I'm learning ReactJs,NodeJs
-* 
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tuananh141101&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=tuananh141101&theme=shadow_blue&hide_border=false)<br/>
